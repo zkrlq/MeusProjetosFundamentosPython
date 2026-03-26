@@ -1,1 +1,1 @@
-Adicionei meus arquivos do curso, em breve arrumarei
+Codigos gerados no curso de fundamentos em python.
